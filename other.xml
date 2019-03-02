@@ -1,0 +1,9 @@
+<application>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1551309906358" />
+    <option name="shownCourseIds">
+      <set />
+    </option>
+    <option name="myShouldUseJavaFx" value="false" />
+  </component>
+</application>
